@@ -22,7 +22,7 @@
 <a href="https://www.topcoder.com/members/rakibul_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rakibul_hossain" height="30" width="40" /></a>
 </p>
 
-<h2></h2>
+<h3></h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhossain&show_icons=true&locale=en&layout=compact&hide=html,php,blade&theme=react" alt="rakibulhossain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulhossain&show_icons=true&locale=en&theme=react" alt="rakibulhossain" /></p>
