@@ -17,8 +17,8 @@
 <a href="https://linkedin.com/in/rakibul-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-hossain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8479549/rakibul-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakibul-hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/wolve__rine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wolve__rine" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rakibulhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakibulhossain" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/wolve_rine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wolve_rine" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rakibulhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rakibulhossain" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/rakibul_hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="rakibul_hossain" height="30" width="40" /></a>
 </p>
 
