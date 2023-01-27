@@ -16,13 +16,12 @@
 <a href="https://twitter.com/rkibhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rkibhossain" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakibul-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakibul-hossain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8479549/rakibul-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rakibul-hossain" height="30" width="40" /></a>
-<a href="mailto:rakibgtr2@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="rakibgtr2@gmail.com" height="30" width="40" /></a>
+<a href="mailto:rakibgtr2@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="rakibgtr2@gmail.com" height="25" width="35" /></a>
 <a href="https://codeforces.com/profile/wolve_rine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="wolve_rine" height="30" width="40" /></a>
 </p>
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhossain&show_icons=true&locale=en&layout=compact&hide=html,php,blade&theme=react" alt="rakibulhossain" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulhossain&show_icons=true&locale=en&theme=react" alt="rakibulhossain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulhossain&theme=react" alt="rakibulhossain" /></p>
