@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulhossain" /> </p>
 
-![](https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif)
+<p align="left"><img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" title="Readme gif" width="512"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
